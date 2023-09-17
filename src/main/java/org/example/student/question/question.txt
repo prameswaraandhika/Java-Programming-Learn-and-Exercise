@@ -1,0 +1,24 @@
+**Question:**
+
+You have a `Student` class that contains the name of a student and an array of scores. Given the following code:
+
+
+int[] scores = {97, 98, 100};
+Student student = new Student("NameStudent", scores);
+System.out.println("length: " + student.getLengthOfScores());
+System.out.println("max: " + student.getMaxScore());
+System.out.println("min: " + student.getMinScore());
+System.out.println("avg: " + student.getAverageScores());
+
+
+Write the `Student` class with methods to calculate and retrieve the following statistics for the given scores:
+
+1. `getLengthOfScores()`: Returns the number of scores in the array.
+
+2. `getMaxScore()`: Returns the highest score in the array.
+
+3. `getMinScore()`: Returns the lowest score in the array.
+
+4. `getAverageScores()`: Returns the average score rounded to two decimal places.
+
+Include the necessary attributes and methods in the `Student` class to achieve this.

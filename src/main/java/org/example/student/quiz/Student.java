@@ -1,4 +1,4 @@
-package org.example.studentapp;
+package org.example.student.quiz;
 
 import java.math.BigDecimal;
 
