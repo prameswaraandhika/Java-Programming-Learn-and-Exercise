@@ -1,4 +1,4 @@
-package org.example.student.quiz;
+package org.example.student.myanswer;
 
 public class StudentRunner {
     public static void main(String[] args) {

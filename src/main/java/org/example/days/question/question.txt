@@ -1,0 +1,14 @@
+**Question:**
+
+You have an array of days of the week as follows:
+
+String[] daysOfWeek = {
+    "Sunday", "Monday", "Tuesday", "Wednesday",
+    "Thursday", "Friday", "Saturday"
+};
+
+1. Write a Java program to find the day with the most letters in its name and print that day.
+
+2. Write a Java program to print the days of the week in reverse order.
+
+Provide the code and explanations for each of these tasks.
