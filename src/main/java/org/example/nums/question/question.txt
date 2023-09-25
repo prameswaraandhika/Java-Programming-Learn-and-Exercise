@@ -1,0 +1,32 @@
+**Question: For Loop Puzzles**
+
+Any of the three parts in a for loop can be empty, and there can be multiple statements in Initialization or Operation separated by commas.
+
+```java
+MyNumber number = new MyNumber(9);
+
+number.isPrime(); // Is a number Prime?
+// Hint: 5 => true, 7 => true, 11 => true, 6 => false
+
+int sum = number.sumUptoN(); // Sum of numbers up to n?
+// 1 + 2 + 3 + 4 + 5 + 6
+
+int sumOfDivisors = number.sumOfDivisors();
+
+number.printANumberTriangle();
+// 1
+// 1 2
+// 1 2 3
+// 1 2 3 4
+// 1 2 3 4 5
+```
+
+1. Write Java code to determine whether the number stored in the `MyNumber` object is prime. Provide an explanation of how your code works.
+
+2. Write Java code to calculate the sum of numbers up to `n` (inclusive), where `n` is the number stored in the `MyNumber` object. Explain the logic of your code.
+
+3. Implement a Java method within the `MyNumber` class to calculate and return the sum of divisors for the number stored in the object. Provide the code for this method and explain how it works.
+
+4. Develop a Java method within the `MyNumber` class to print a number triangle pattern as shown in the example. Include the code for this method and explain the logic behind it.
+
+Please provide the code and explanations for each of these tasks.
